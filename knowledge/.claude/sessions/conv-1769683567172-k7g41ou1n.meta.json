@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769683567172-k7g41ou1n",
+  "title": "Review market notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769683567177,
+  "updatedAt": 1769684813268,
+  "lastResponseAt": 1769684463959,
+  "sessionId": "7cd1439a-fcf6-4a27-b579-648752e63d60",
+  "sdkSessionId": "7cd1439a-fcf6-4a27-b579-648752e63d60",
+  "currentNote": "MarketNotes/2026-01-26.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 849,
+    "cacheReadInputTokens": 41291,
+    "contextWindow": 200000,
+    "contextTokens": 42140,
+    "percentage": 21
+  }
+}

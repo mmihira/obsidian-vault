@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769684816446-rfxohg0x5",
+  "title": "Initiate conversation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769684816446,
+  "updatedAt": 1769686796614,
+  "lastResponseAt": 1769686796614,
+  "sessionId": "dbd52de7-176e-4300-aa1b-8cd0babb6cde",
+  "sdkSessionId": "dbd52de7-176e-4300-aa1b-8cd0babb6cde",
+  "currentNote": "MarketNotes/Research-Tasks.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 7302,
+    "cacheReadInputTokens": 51845,
+    "contextWindow": 200000,
+    "contextTokens": 59150,
+    "percentage": 30
+  }
+}

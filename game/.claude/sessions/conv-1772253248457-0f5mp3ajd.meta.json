@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772253248457-0f5mp3ajd",
+  "title": "Organize spec in Obsidian with folders and tags",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772253248459,
+  "updatedAt": 1772253332333,
+  "lastResponseAt": 1772253332328,
+  "sessionId": "81d5689d-0394-47df-b4f5-586a303db279",
+  "sdkSessionId": "81d5689d-0394-47df-b4f5-586a303db279",
+  "currentNote": "Orignal Spec.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1233,
+    "cacheReadInputTokens": 38166,
+    "contextWindow": 200000,
+    "contextTokens": 39400,
+    "percentage": 20
+  }
+}

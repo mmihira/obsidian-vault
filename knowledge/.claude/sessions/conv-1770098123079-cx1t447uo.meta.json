@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770098123079-cx1t447uo",
+  "title": "Complete VGS task for today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770098123080,
+  "updatedAt": 1770810365720,
+  "lastResponseAt": 1770810282282,
+  "sessionId": "3d28172d-8e5c-4b56-97d4-0968836cb51b",
+  "sdkSessionId": "3d28172d-8e5c-4b56-97d4-0968836cb51b",
+  "currentNote": "MarketNotes/Research-Tasks.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6,
+    "cacheCreationInputTokens": 5800,
+    "cacheReadInputTokens": 51874,
+    "contextWindow": 200000,
+    "contextTokens": 57680,
+    "percentage": 29
+  }
+}

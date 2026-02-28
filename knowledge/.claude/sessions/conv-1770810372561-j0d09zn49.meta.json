@@ -1,0 +1,20 @@
+{
+  "id": "conv-1770810372561-j0d09zn49",
+  "title": "Complete Iran task for today",
+  "titleGenerationStatus": "success",
+  "createdAt": 1770810372562,
+  "updatedAt": 1771558814243,
+  "lastResponseAt": 1771558814243,
+  "sessionId": "307b777b-1a78-4f6c-aca1-528c9bde175b",
+  "sdkSessionId": "307b777b-1a78-4f6c-aca1-528c9bde175b",
+  "currentNote": "MarketNotes/Research-Tasks.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 6,
+    "cacheCreationInputTokens": 8018,
+    "cacheReadInputTokens": 25388,
+    "contextWindow": 200000,
+    "contextTokens": 33412,
+    "percentage": 17
+  }
+}

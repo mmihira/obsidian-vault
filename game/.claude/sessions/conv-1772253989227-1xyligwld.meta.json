@@ -1,0 +1,19 @@
+{
+  "id": "conv-1772253989227-1xyligwld",
+  "title": "Integrate spec into knowledge base",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772253989227,
+  "updatedAt": 1772254952589,
+  "lastResponseAt": 1772254952587,
+  "sessionId": "218bbab7-d2d0-4470-bee2-3e769ed6045d",
+  "sdkSessionId": "218bbab7-d2d0-4470-bee2-3e769ed6045d",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1175,
+    "cacheReadInputTokens": 73922,
+    "contextWindow": 200000,
+    "contextTokens": 75098,
+    "percentage": 38
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1771742294098-pkcjn44e3",
+  "title": "Create prompt template task file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1771742294105,
+  "updatedAt": 1772253187894,
+  "lastResponseAt": 1771742543277,
+  "sessionId": "2d1b694c-8ad0-4927-91cc-9ea4bbc8e43c",
+  "sdkSessionId": "2d1b694c-8ad0-4927-91cc-9ea4bbc8e43c",
+  "currentNote": "Pixel Art Generation/Task Description.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2220,
+    "cacheReadInputTokens": 27535,
+    "contextWindow": 200000,
+    "contextTokens": 29756,
+    "percentage": 15
+  }
+}

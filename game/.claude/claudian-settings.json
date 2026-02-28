@@ -45,6 +45,7 @@
   "titleGenerationModel": "",
   "show1MModel": false,
   "enableChrome": false,
+  "enableBangBash": false,
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
@@ -63,9 +64,7 @@
   },
   "locale": "en",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {
-    "Mudithas-MacBook-Pro.local": "/Users/mihira/.local/bin/claude"
-  },
+  "claudeCliPathsByHost": {},
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "opus",
   "lastCustomModel": "",

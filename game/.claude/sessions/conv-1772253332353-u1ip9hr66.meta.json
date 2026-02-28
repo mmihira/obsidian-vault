@@ -1,0 +1,19 @@
+{
+  "id": "conv-1772253332353-u1ip9hr66",
+  "title": "Organize SANCTUARY spec into Obsidian notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772253332353,
+  "updatedAt": 1772253964389,
+  "lastResponseAt": 1772253787648,
+  "sessionId": "86e90971-29bf-46cb-b8c6-b947d4c00ab9",
+  "sdkSessionId": "86e90971-29bf-46cb-b8c6-b947d4c00ab9",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 519,
+    "cacheReadInputTokens": 60989,
+    "contextWindow": 200000,
+    "contextTokens": 61509,
+    "percentage": 31
+  }
+}

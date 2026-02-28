@@ -75,6 +75,17 @@ status: active
 
 ---
 
+## HYPE Token Performance & Fundamentals
+**Context:** Tracking HYPE cryptocurrency token for investment potential. Monitor price action, adoption metrics, and market sentiment.
+- Current HYPE token price (USD and other major pairs)
+- 24-hour, 7-day, and YTD performance
+- Market cap, trading volume, and liquidity
+- Key developments: partnerships, protocol updates, community growth
+- Regulatory sentiment and risk factors
+- Competitive landscape (similar tokens/projects)
+
+---
+
 ## Add More Tasks Below
 - _Your idea here_
 - _Your idea here_

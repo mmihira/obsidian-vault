@@ -14,14 +14,27 @@ tags:
 
 ## Resource Hierarchy
 
-| Resource | Acquisition | Abundance | Primary Use |
-| -------- | ----------- | --------- | ----------- |
-| **Crystal Shards** | Breaking wild/farmed crystals | Common | Planting, basic crafting |
-| **Crystal Catalyst** | Harvesting wild crystals in fog zones | Abundant | "Watering" growing crystals |
-| **Crystal Cores** | Extracting from wild crystal nexus | Scarce | Building projector slots |
-| **Power Shards** | Destroying wild power crystals | Limited | Growing power crystals |
-| **Magic Essence** | Harvesting mature crystals | Variable | Potions, advanced crafting |
-| **Raw Gems** | Breaking mature crystals | Variable | Currency, ammunition |
+| Resource             | Acquisition                           | Abundance | Primary Use                 |
+| -------------------- | ------------------------------------- | --------- | --------------------------- |
+| **Crystal Shards**   | Breaking wild/farmed crystals         | Common    | Planting, basic crafting    |
+| **Crystal Catalyst** | Harvesting wild crystals in fog zones | Abundant  | "Watering" growing crystals |
+| **Power Shards**     | Destroying wild power crystals        | Limited   | Growing power crystals      |
+| **Magic Essence**    | Harvesting mature crystals            | Variable  | Potions, advanced crafting  |
+| **Raw Gems**         | Breaking mature crystals              | Variable  | Currency, ammunition        |
+|                      |                                       |           |                             |
+
+## Constraints
+
+- **Time** 
+	- Crystal take time to fully grow
+- Crystal Projectors
+	- Need projects to act as beds
+- Power
+	- Every crystal projector take some amount of power
+- Crystal catalyst
+	- Must have enough crystal catalsyt to feed the crystals
+- Crystal shards
+	  - Shards are required as seeds
 
 ## Spraying Mechanic
 
@@ -37,30 +50,34 @@ tags:
 - Crystal power shards are used to grow power crystals
 - Power shards are of limited quantity and must be obtained by destroying wild power crystals
 
-## Crystal Cores
-
-- Crystal cores are obtained by extracting them from wild crystal nexus
-
 ## Core Projector
 
-- Core projectors use crystal cores to project crystal beds onto the ground, which can be used to grow crystals by planting crystal shards
-- Must be built; will automatically consume crystal cores the player has accumulated
+- Core projectors project crystal beds onto the ground, which can be used to grow crystals by planting crystal shards
+- Relatively cheap to build
 - Player can change the layout configuration
-- Different levels of core projectors exist with increased levels of beds generated
+- Different tiers of core projectors exist with increased bed counts
+- Core projectors **continuously consume power** while active — this is the primary cap on how many beds the player can run simultaneously
 - Core projectors are upgradeable with modifiers:
   - **Yield increase** — more resources per harvest
   - **Growth speed** — reduced maturation time
   - **Auto-harvest** — automatically collects mature crystals
   - **Catalyst efficiency** — less spraying required
-- Each slot which can grow a crystal requires a crystal core
+  - **Power efficiency** — reduces the projector's power draw
+
+### Power as a Scaling Cap
+
+- Each active projector draws power from the sanctuary's power network
+- Higher-tier projectors draw more power but offer more bed slots and features
+- The player's total crystal farming capacity is effectively bounded by their power production
+- Upgrading power infrastructure is the progression path to scaling up crystal output
 
 ### Projector Tiers
 
-| Tier | Bed Slots | Special Features |
-| ---- | --------- | ---------------- |
-| Basic | 4 | Standard growth |
-| Advanced | 9 | Unlocks pattern bonuses |
-| Master | 16 | Geometry arrangements, rare crystals |
+| Tier     | Bed Slots | Power Draw | Special Features                      |
+| -------- | --------- | ---------- | ------------------------------------- |
+| Basic    | 4         | Low        | Standard growth                       |
+| Advanced | 9         | Medium     | Unlocks pattern bonuses               |
+| Master   | 16        | High       | Geometry arrangements, rare crystals  |
 - Initially introduced via the merchant NPC who has a core machine deployed for making potions
 - Player can place core projectors mostly anywhere (though conflict with NPC building locations is a concern)
 

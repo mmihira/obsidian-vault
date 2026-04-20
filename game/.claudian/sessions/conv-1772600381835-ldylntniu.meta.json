@@ -1,0 +1,20 @@
+{
+  "id": "conv-1772600381835-ldylntniu",
+  "providerId": "claude",
+  "title": "Refactor crystal core power mechanics",
+  "titleGenerationStatus": "success",
+  "createdAt": 1772600381835,
+  "updatedAt": 1776593360652,
+  "lastResponseAt": 1772601106158,
+  "sessionId": "e6768b35-4a1d-4230-a5f9-207715daf941",
+  "currentNote": "Sanctuary/Progression/Core Depths.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1114,
+    "cacheReadInputTokens": 29245,
+    "contextWindow": 200000,
+    "contextTokens": 30360,
+    "percentage": 15
+  }
+}

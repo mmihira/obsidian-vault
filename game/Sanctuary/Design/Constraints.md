@@ -35,7 +35,9 @@ Constraints are what transform free-form interaction into a *game*. Every constr
 - Enemy difficulty scales with distance from town
 - Natural terrain barriers (fissures, [[Sanctuary/Map/Impassable River|Impassable River]], [[Sanctuary/Map/Mountain Tunnel|Mountain Tunnel]]) funnel exploration
 
----
+### Power
+ - Limited amount of power [[Crystal Power]]
+ - 
 
 ## Resource Scarcity
 

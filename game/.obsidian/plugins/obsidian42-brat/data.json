@@ -1,13 +1,8 @@
 {
   "pluginList": [
-    "somesanity/draw-io-obsidian",
     "YishenTu/claudian"
   ],
   "pluginSubListFrozenVersion": [
-    {
-      "repo": "somesanity/draw-io-obsidian",
-      "version": ""
-    },
     {
       "repo": "YishenTu/claudian",
       "version": "latest"

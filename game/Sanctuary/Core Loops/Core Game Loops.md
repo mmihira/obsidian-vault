@@ -4,7 +4,6 @@ tags:
 ---
 
 
-
 # Core Game Loops
 
 ## Labour Value Theory

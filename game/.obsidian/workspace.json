@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4d05fb112a067003",
+        "id": "07c2ab12809cd054",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7ae828eba68c93",
+            "id": "642ed49b094ee836",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 390.5
   },
   "right": {
     "id": "8ff9271cde0420f2",
@@ -194,18 +194,21 @@
       "drawio:Open draw.io editor": false
     }
   },
-  "active": "1a7ae828eba68c93",
+  "active": "642ed49b094ee836",
   "lastOpenFiles": [
-    "Sanctuary/Core Loops/Progression Systems.md",
+    "Sanctuary/Combat/Fog System.md",
     "Sanctuary/Core Loops/GameLayout.md",
+    "Sanctuary/Hast/Hast Growth Mechanics.md",
+    "Sanctuary/Crystals/Crystal Interaction.md",
+    "Sanctuary/Core Loops/Progression Systems.md",
     "Sanctuary/Core Loops/Exploration & Expansion.md",
+    "Sanctuary/Hast",
     "Sanctuary/Core Loops/Core Game Loops.md",
     "crystal-shard..png",
     "Pasted Image 20260421222834_636.png",
     "gems.png",
     "Sanctuary/Crystals/Crystal Growing.md",
     "Sanctuary/Core Loops/Survival.md",
-    "Sanctuary/Combat/Fog System.md",
     "Sanctuary/Economy/Items & Resources.md",
     "Sanctuary/Economy/Portal System.md",
     "Sanctuary/Economy/Export Import System.md",
@@ -218,7 +221,6 @@
     "Sanctuary/Crystals/Crystal Types & Structures.md",
     "Sanctuary/Crystals/Crystal Power & Networks.md",
     "Sanctuary/Crystals/Crystal Overview.md",
-    "Sanctuary/Crystals/Crystal Interaction.md",
     "Sanctuary/Combat/Tower System.md",
     "Sanctuary/Core Loops/Untitled.canvas",
     "drawio/diagram_20260420111300.drawio.svg",
@@ -239,7 +241,6 @@
     "Sanctuary/Story",
     "Sanctuary/World",
     "Sanctuary/Town",
-    "Sanctuary/Technical",
     "Screenshot 2026-02-22 at 4.35.59 pm.png",
     "Screenshot 2026-02-22 at 4.35.59 pm 1.png"
   ]
